@@ -4,7 +4,7 @@ A `git` workshop hosted by UWB ACM.
 
 ## Materials
 
-TODO :bug: add link to slides (to be committed)
+Please refer to the [slide deck](./Git_Gud_Workshop.pdf) in this repository.
 
 ## Participants
 
